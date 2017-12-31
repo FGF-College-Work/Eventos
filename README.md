@@ -35,5 +35,5 @@ Aguarde a aprovação!
  
 ## Licença
 
-[MIT](LICENSE.md) &copy; FrontendBR
+[MIT](LICENSE.md) &copy; FGF College Work
 
