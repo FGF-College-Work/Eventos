@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://www.fgf.edu.br/wp-content/themes/fgf-28-05-2013_RESPONSIVO/images/fgf-faculdade-integrada-da-grande-fortaleza.png">
+<img src="https://github.com/FGF-College-Work/Eventos/blob/master/data/fgf-faculdade-integrada-da-grande-fortaleza.jpg?raw=true">
 </p>
 <h1 align="center">Eventos</h1>
 <p align="center">:date: Lista de eventos, meetups, encontros e webinars sobre tecnologia.</p>
